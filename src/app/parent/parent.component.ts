@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 export class ParentComponent {
   parentdata:string="";
   message:string="Welcome to velocity";
+  message1:string="Hello good afternoon";
 
   datafromchildcomponent : string="";
   
